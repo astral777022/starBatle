@@ -1,0 +1,22 @@
+* {
+    padding: 0;
+    margin: 0;
+ }
+      
+canvas {
+    //background: #46a7e7;
+    display: block;
+    margin: 0 auto;
+}
+
+button {
+  display: block;
+  font-size: xx-small;
+}
+
+h1, h3, h2 {
+  color: #efef14ff;
+  text-shadow: 2px 2px 4px #000000;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin-bottom: 10px;
+}
